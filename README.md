@@ -1,6 +1,6 @@
 # european_soccer
 
-The ultimate Soccer database for data analysis and machine learning
+The ultimate Soccer database for data analysis and machine learning [Kaggle](https://www.kaggle.com/hugomathien/soccer)
   * +25,000 matches
   * +10,000 players
   * 11 European Countries with their lead championship
